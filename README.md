@@ -18,9 +18,9 @@ algorithm
 
 ## Files
 
-* `ai-system-specification-assignment.pdf`
+* `personalized_news_feed_recommender_assignment.pdf`
 
-## M Nawaz Siyal
+## M Nawaz Sial
 
 
 Roll No: 2K23/CSE/98
