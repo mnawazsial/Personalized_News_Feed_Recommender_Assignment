@@ -20,7 +20,7 @@ algorithm
 
 * `ai-system-specification-assignment.pdf`
 
-## Junaid Ahmed 
+## M Nawaz Siyal
 
-M Nawaz Siyal
+
 Roll No: 2K23/CSE/98
